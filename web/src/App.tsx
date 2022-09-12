@@ -1,25 +1,10 @@
-// Components and Props
-
-interface ButtonProps {
-  title: string;
-}
-
-function Button (props: ButtonProps) {
-  return (
-    <button>
-      {props.title}
-    </button>
-  )
-}
+import './index.css'
 
 function App() {
   return (
-    <>
-    <Button title='Button 1' />
-    <Button title='Button 2' />
-    <Button title='Button 3' />
-    <Button title='Button 4' />
-    </>
+    <div>
+
+    </div>
   )
 }
 
