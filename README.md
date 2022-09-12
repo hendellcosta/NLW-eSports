@@ -9,7 +9,7 @@
 
 
 ## 🚀 Project
-My project for NLW eSports in Ignite section by <a href='https://www.rocketseat.com.br/'>Rocketseat</a>
+My project for NLW eSports in Ignite section by <a href='https://www.rocketseat.com.br/'>Rocketseat</a>.
 
 ## 🔧 Technologies
 
@@ -39,6 +39,6 @@ To Start Server:
 
 To Visit App:
 
-`localhost:5173/`  
+`localhost:5173`  
 
 <!-- Hendell Costa -->
