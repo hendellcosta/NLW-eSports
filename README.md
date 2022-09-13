@@ -7,6 +7,8 @@
     <img alt="Project" title="Project Landing Page" src="assets/project.png" width="650px" />
 </p>
 
+---
+
 ## 🔧 Technologies
 
 - [ReactJS](https://https://reactjs.org/)
@@ -16,6 +18,8 @@
 - [TailwindCSS](https://tailwindcss.com/)
 - [Expo](https://expo.dev/)
 - [VS Code](https://code.visualstudio.com/)
+
+---
 
 ### To run this project follow the steps below:  
 
