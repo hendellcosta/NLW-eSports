@@ -18,6 +18,7 @@ My project for NLW eSports in Ignite section by <a href='https://www.rocketseat.
 - NodeJS
 - React Native
 - TailwindCSS
+- Expo
 - VSCode
 
 ### To run this project follow the steps below:  
