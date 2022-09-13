@@ -1,7 +1,7 @@
 ## 🚀 Project
-<h1 align="center"> 
+<h4 align="center"> 
   🚀 Application developed during the NLW by <a href='https://www.rocketseat.com.br/' target='_blank'>Rocketseat</a> 🚀.
-</h1>
+</h4>
 
 <p align="center">
     <img alt="Project" title="Project Landing Page" src="assets/project.png" width="650px" />
@@ -9,13 +9,13 @@
 
 ## 🔧 Technologies
 
-<a href="https://https://reactjs.org/">- ReactJS</a>
-<a href="https://vitejs.dev/">- Vite</a>
-<a href="https://nodejs.org/">- NodeJS</a>
-<a href="https://reactnative.dev/">- React Native</a>
-<a href="https://tailwindcss.com/">- TailwindCSS</a>
-<a href="https://expo.dev/">- Expo</a>
-<a href="https://code.visualstudio.com/">- VS Code</a>
+- [ReactJS](https://https://reactjs.org/)
+- [Vite](https://vitejs.dev/)
+- [NodeJS](https://nodejs.org/)
+- [React Native](https://reactnative.dev/)
+- [TailwindCSS](https://tailwindcss.com/)
+- [Expo](https://expo.dev/)
+- [VS Code](https://code.visualstudio.com/)
 
 ### To run this project follow the steps below:  
 
