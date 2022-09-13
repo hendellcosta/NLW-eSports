@@ -17,6 +17,7 @@ My project for NLW eSports in Ignite section by <a href='https://www.rocketseat.
 - Vite
 - NodeJS
 - React Native
+-TailwindCSS
 - VSCode
 
 ### To run this project follow the steps below:  
