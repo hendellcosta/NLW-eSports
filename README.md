@@ -1,7 +1,6 @@
-## 🚀 Project
-<h2 align="center"> 
+<h1 align="center"> 
   🚀 Application developed during the NLW by <a href='https://www.rocketseat.com.br/' target='_blank'>Rocketseat</a> 🚀.
-</h2>
+</h1>
 
 <p align="center">
     <img alt="Project" title="Project Landing Page" src="assets/project.png" width="650px" />
