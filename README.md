@@ -12,6 +12,7 @@
 - [Vite](https://vitejs.dev/)
 - [NodeJS](https://nodejs.org/)
 - [React Native](https://reactnative.dev/)
+- [TypeScript](https://www.typescriptlang.org/)
 - [TailwindCSS](https://tailwindcss.com/)
 - [Expo](https://expo.dev/)
 
