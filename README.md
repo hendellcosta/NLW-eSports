@@ -9,7 +9,7 @@
 
 
 ## 🚀 Project
-My project for NLW eSports in Ignite section by <a href='https://www.rocketseat.com.br/'>Rocketseat</a>.
+My project for NLW eSports in Ignite section by <a href='https://www.rocketseat.com.br/' target='_blank'>Rocketseat</a>.
 
 ## 🔧 Technologies
 
@@ -17,7 +17,7 @@ My project for NLW eSports in Ignite section by <a href='https://www.rocketseat.
 - Vite
 - NodeJS
 - React Native
--TailwindCSS
+- TailwindCSS
 - VSCode
 
 ### To run this project follow the steps below:  
