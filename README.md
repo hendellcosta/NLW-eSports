@@ -16,11 +16,8 @@
 - [React Native](https://reactnative.dev/)
 - [TailwindCSS](https://tailwindcss.com/)
 - [Expo](https://expo.dev/)
-- [VS Code](https://code.visualstudio.com/)
 
----
-
-### 🔨 To run this project follow the steps below:  
+## 🔨 To run this project follow the steps below:  
 
 Clone down this repository. You will need `node` and `npm` installed globally on your machine.
 
